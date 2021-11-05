@@ -1,0 +1,38 @@
+* {box-sizing: border-box;}
+body {font-family: tahoma;
+color:#333333;}
+.main-head span{
+	display: block;
+}
+.main-head strong, .twohead {
+font-weight: 900;
+line-height: 1.5;
+
+}
+.main-head {
+	font-size: 24px;
+	margin-top: 120px;
+	margin-bottom: 80px;
+}
+.form {
+	border:5px solid #2727d9;
+	padding: 30px 15px;
+}
+.form input {
+	margin-bottom: 10px;
+}
+.form-name {
+	margin-bottom: 40px;
+	font-weight: 900;
+	font-size: 20px;
+}
+.twohead {
+	font-size: 24px;
+	margin-top: 150px;
+	margin-bottom: 80px;
+
+}
+.featers {
+	margin-bottom: 100px;
+}
+
